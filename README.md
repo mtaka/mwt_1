@@ -1,0 +1,2 @@
+# pybase
+Python project base
